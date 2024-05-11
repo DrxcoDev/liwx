@@ -1,0 +1,4 @@
+import __lwx.engine__ ;Es obligatorio
+
+variable = 5-2
+printly("Hola Mundo" | variable);
