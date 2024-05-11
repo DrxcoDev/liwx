@@ -1,2 +1,2 @@
 @echo off
-python C:/Users/Soft/Desktop/Liwx/run.py %1
+python C:/Liwx/run.py %1
